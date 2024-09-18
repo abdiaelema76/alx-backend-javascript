@@ -1,65 +1,18 @@
 {
-  "people": [
-    {
-      "firstname": "Johann",
-      "lastname": "Kerbrou",
-      "age": 30,
-      "field": "CS"
-    },
-    {
-      "firstname": "Guillaume",
-      "lastname": "Salou",
-      "age": 30,
-      "field": "SWE"
-    },
-    {
-      "firstname": "Arielle",
-      "lastname": "Salou",
-      "age": 20,
-      "field": "CS"
-    },
-    {
-      "firstname": "Jonathan",
-      "lastname": "Benou",
-      "age": 30,
-      "field": "CS"
-    },
-    {
-      "firstname": "Emmanuel",
-      "lastname": "Turlou",
-      "age": 40,
-      "field": "CS"
-    },
-    {
-      "firstname": "Guillaume",
-      "lastname": "Plessous",
-      "age": 35,
-      "field": "CS"
-    },
-    {
-      "firstname": "Joseph",
-      "lastname": "Crisou",
-      "age": 34,
-      "field": "SWE"
-    },
-    {
-      "firstname": "Paul",
-      "lastname": "Schneider",
-      "age": 60,
-      "field": "SWE"
-    },
-    {
-      "firstname": "Tommy",
-      "lastname": "Schoul",
-      "age": 32,
-      "field": "SWE"
-    },
-    {
-      "firstname": "Katie",
-      "lastname": "Shirou",
-      "age": 21,
-      "field": "CS"
-    }
-  ]
+  "name": "node_js_basics",
+  "version": "1.0.0",
+  "description": "Node.js basics project",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .js",
+    "test": "jest",
+    "full-test": "npm run lint && npm run test"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.5",
+    "eslint": "^6.8.0",
+    "jest": "^26.0.0"
+  }
 }
+
 
