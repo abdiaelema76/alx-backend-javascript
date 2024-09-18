@@ -1,0 +1,65 @@
+{
+  "people": [
+    {
+      "firstname": "Johann",
+      "lastname": "Kerbrou",
+      "age": 30,
+      "field": "CS"
+    },
+    {
+      "firstname": "Guillaume",
+      "lastname": "Salou",
+      "age": 30,
+      "field": "SWE"
+    },
+    {
+      "firstname": "Arielle",
+      "lastname": "Salou",
+      "age": 20,
+      "field": "CS"
+    },
+    {
+      "firstname": "Jonathan",
+      "lastname": "Benou",
+      "age": 30,
+      "field": "CS"
+    },
+    {
+      "firstname": "Emmanuel",
+      "lastname": "Turlou",
+      "age": 40,
+      "field": "CS"
+    },
+    {
+      "firstname": "Guillaume",
+      "lastname": "Plessous",
+      "age": 35,
+      "field": "CS"
+    },
+    {
+      "firstname": "Joseph",
+      "lastname": "Crisou",
+      "age": 34,
+      "field": "SWE"
+    },
+    {
+      "firstname": "Paul",
+      "lastname": "Schneider",
+      "age": 60,
+      "field": "SWE"
+    },
+    {
+      "firstname": "Tommy",
+      "lastname": "Schoul",
+      "age": 32,
+      "field": "SWE"
+    },
+    {
+      "firstname": "Katie",
+      "lastname": "Shirou",
+      "age": 21,
+      "field": "CS"
+    }
+  ]
+}
+
