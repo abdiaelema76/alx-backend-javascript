@@ -1,5 +1,5 @@
 const assert = require('assert');
-const calculateNumber = require('../0-calcul');
+const calculateNumber = require('./0-calcul');
 
 describe('Test acalculateNumber function', function () {
   it('calculateNumber should retrun rounded positive sum', function () {
